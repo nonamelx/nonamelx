@@ -15,3 +15,7 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nonamelx/nonamelx/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/nonamelx/nonamelx/output/github-snake.svg" />
 </picture>
+
+## #30NitesOfCode:
+  [Check out my progress!](https://www.codedex.io/@nonamelx/30-nites-of-code)  
+  ![@nonamelx #30NitesOfCode](https://www.codedex.io/api/petStatus?user=nonamelx)
