@@ -1,0 +1,32 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 840 300" role="img" aria-labelledby="title desc">
+  <title id="title">Areas of expertise</title>
+  <desc id="desc">Four focus areas: automation and integrations, bots and data extraction, AI integration, and crypto and Web3.</desc>
+  <style>
+    .bg { fill: #0D1117; }
+    .cell { fill: #11151B; stroke: #30343C; stroke-width: 1; }
+    .rule { stroke: #9F2938; stroke-width: 2; stroke-linecap: round; }
+    .heading { fill: #D4D4D8; font: 600 15px Arial, Helvetica, sans-serif; letter-spacing: 1px; }
+    .body { fill: #8B919B; font: 14px Arial, Helvetica, sans-serif; }
+  </style>
+  <rect class="bg" width="840" height="300" rx="8"/>
+  <g transform="translate(20 20)">
+    <rect class="cell" width="390" height="120" rx="7"/><path class="rule" d="M20 24v28"/>
+    <text class="heading" x="36" y="39">AUTOMATION &amp; INTEGRATIONS</text>
+    <text class="body" x="36" y="76">Workflows, services, REST APIs</text>
+  </g>
+  <g transform="translate(430 20)">
+    <rect class="cell" width="390" height="120" rx="7"/><path class="rule" d="M20 24v28"/>
+    <text class="heading" x="36" y="39">BOTS &amp; DATA EXTRACTION</text>
+    <text class="body" x="36" y="76">Telegram bots, web scraping, parsers</text>
+  </g>
+  <g transform="translate(20 160)">
+    <rect class="cell" width="390" height="120" rx="7"/><path class="rule" d="M20 24v28"/>
+    <text class="heading" x="36" y="39">AI INTEGRATION</text>
+    <text class="body" x="36" y="76">LLMs, Ollama, AI-powered workflows</text>
+  </g>
+  <g transform="translate(430 160)">
+    <rect class="cell" width="390" height="120" rx="7"/><path class="rule" d="M20 24v28"/>
+    <text class="heading" x="36" y="39">CRYPTO &amp; WEB3</text>
+    <text class="body" x="36" y="76">Blockchain services, APIs, tooling</text>
+  </g>
+</svg>
