@@ -1,7 +1,10 @@
 # nonamelx
 
-I build software for automation and service integrations.
+I build software for automation, data processing, and service integrations.
 
-I write bots and scripts that connect APIs and automate routine tasks.
-
-One public project is [proxyanalyser](https://github.com/nonamelx/proxyanalyser), a browser-based tool for working with proxy configurations.
+| | |
+| --- | --- |
+| Languages | Python, JavaScript, SQL |
+| Work | REST APIs, bots, web automation, data processing, service integrations |
+| Tools | Docker, Linux, PostgreSQL, Playwright, Ollama |
+| Interests | Backend engineering, AI and LLM integrations, developer tooling, cybersecurity |
